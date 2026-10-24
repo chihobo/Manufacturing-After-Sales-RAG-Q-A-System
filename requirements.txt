@@ -1,0 +1,16 @@
+openai
+faiss-cpu
+rank_bm25
+jieba
+fastapi
+uvicorn
+streamlit
+pytest
+numpy
+python-dotenv
+httpx
+reportlab
+pymupdf
+python-docx
+rapidocr-onnxruntime
+pillow

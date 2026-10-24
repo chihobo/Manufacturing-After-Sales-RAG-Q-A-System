@@ -1,0 +1,110 @@
+[
+  {
+    "question": "E-102 报警怎么处理",
+    "category": "故障代码",
+    "expect_points": ["冷却器", "油温传感器", "换油"],
+    "expect_model": null
+  },
+  {
+    "question": "E-120 伺服电机过载报警怎么排查",
+    "category": "故障代码",
+    "expect_points": ["联轴器", "三相电流", "压力设定"],
+    "expect_model": null
+  },
+  {
+    "question": "E-105 报警是什么原因，如何处理",
+    "category": "故障代码",
+    "expect_points": ["安全门", "行程开关", "联锁"],
+    "expect_model": null
+  },
+  {
+    "question": "E-115 料筒加热异常怎么排查",
+    "category": "故障代码",
+    "expect_points": ["加热圈", "固态继电器", "热电偶"],
+    "expect_model": null
+  },
+  {
+    "question": "E-101 液压油位低报警的处理步骤",
+    "category": "故障代码",
+    "expect_points": ["油位", "外漏", "液压油"],
+    "expect_model": null
+  },
+  {
+    "question": "A-160 的开机操作流程是怎样的",
+    "category": "操作",
+    "expect_points": ["断路器", "自检", "空载", "恒温"],
+    "expect_model": "A-160"
+  },
+  {
+    "question": "B-200 的关机流程是什么",
+    "category": "操作",
+    "expect_points": ["射空", "80", "主电源"],
+    "expect_model": "B-200"
+  },
+  {
+    "question": "C-320 开机前需要确认哪些内容",
+    "category": "操作",
+    "expect_points": ["冷却水", "蓄能器", "空载"],
+    "expect_model": "C-320"
+  },
+  {
+    "question": "A-160 液压系统日常检查包括哪些项目",
+    "category": "操作",
+    "expect_points": ["油位", "油温", "滤芯"],
+    "expect_model": "A-160"
+  },
+  {
+    "question": "B-200 液压系统出现异响怎么排查",
+    "category": "操作",
+    "expect_points": ["空气", "溢流阀", "联轴器", "油泵"],
+    "expect_model": "B-200"
+  },
+  {
+    "question": "C-320 关机操作流程是怎样的",
+    "category": "操作",
+    "expect_points": ["蓄能器", "归零", "冷却水"],
+    "expect_model": "C-320"
+  },
+  {
+    "question": "注塑机开机前对液压油位有什么检查要求",
+    "category": "操作",
+    "expect_points": ["油位", "下限"],
+    "expect_model": null
+  },
+  {
+    "question": "设备正常运行油温范围是多少，超过多少度要检查冷却系统",
+    "category": "操作",
+    "expect_points": ["55", "60"],
+    "expect_model": null
+  },
+  {
+    "question": "A-160 的液压系统压力上限是多少",
+    "category": "参数",
+    "expect_points": ["16", "MPa"],
+    "expect_model": "A-160"
+  },
+  {
+    "question": "B-200 的锁模力是多少",
+    "category": "参数",
+    "expect_points": ["2000", "kN"],
+    "expect_model": "B-200"
+  },
+  {
+    "question": "C-320 的射胶量是多少",
+    "category": "参数",
+    "expect_points": ["800", "g"],
+    "expect_model": "C-320"
+  },
+  {
+    "question": "各型号注塑机的液压系统压力上限分别是多少",
+    "category": "参数",
+    "expect_points": ["16", "17.5", "21"],
+    "expect_model": null
+  },
+  {
+    "question": "各型号注塑机的油箱容量分别是多少",
+    "category": "参数",
+    "expect_points": ["220", "260", "340"],
+    "expect_model": null
+  }
+]
